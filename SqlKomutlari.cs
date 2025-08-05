@@ -11,7 +11,7 @@ namespace Dis_Klinigi
     {
 
 
-        private static string connectionString = "Server=pcName;Database=Dis_Poliklinik_Otomasyon;Trusted_Connection=True;";
+        private static string connectionString = "Server=DESKTOP-ADIN;Database=Dis_Poliklinik_Otomasyon;Trusted_Connection=True;";
 
        
         public static SqlConnection SqlBaglanti()
