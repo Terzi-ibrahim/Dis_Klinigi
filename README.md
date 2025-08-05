@@ -58,3 +58,4 @@ Uygulama, doktor ve hasta bilgilerini yönetme, randevu oluşturma, işlem eklem
 1. Bu repoyu indir veya klonla:
    ```bash
    git clone https://github.com/Terzi-ibrahim/Dis_Klinigi_Otomasyon.git
+
