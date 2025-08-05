@@ -31,25 +31,25 @@ Uygulama, doktor ve hasta bilgilerini yönetme, randevu oluşturma, işlem eklem
 ## 🛠️ Proje Fotoğrafları
 
 ### 🟢 Giriş Ekranı
-
-<img width="476" height="444" alt="Ekran görüntüsü 2025-08-05 223148" src="https://github.com/user-attachments/assets/c1ad5a9f-551c-4dac-8a50-08aca80a0ffb" />
+<img width="476" height="444" alt="Ekran görüntüsü 2025-08-05 223148" src="https://github.com/user-attachments/assets/40c7e8f8-6587-455d-abc0-65a686cfbfc2" />
 
 ### 🔵 Hastalar Listesi
+<img width="1399" height="867" alt="Ekran görüntüsü 2025-08-05 223246" src="https://github.com/user-attachments/assets/fa921cd2-474d-4434-b2aa-80230da50441" />
 
-<img width="1399" height="867" alt="Ekran görüntüsü 2025-08-05 223246" src="https://github.com/user-attachments/assets/9aa449a4-4638-4d79-8934-ed3dc8e00f6d" />
 
 
 ### 🟠 Hasta Kayıt Ekranı
 
-<img width="1390" height="855" alt="Ekran görüntüsü 2025-08-05 223433" src="https://github.com/user-attachments/assets/b31e25b1-ab17-43c0-9330-48342faa24ab" />
+
+<img width="1390" height="855" alt="Ekran görüntüsü 2025-08-05 223433" src="https://github.com/user-attachments/assets/0d292429-91cd-43ad-a52b-5cd8141647a4" />
 
 ### 🟣 Randevu Sayfası
+<img width="1402" height="867" alt="Ekran görüntüsü 2025-08-05 223233" src="https://github.com/user-attachments/assets/193da3ab-fde8-451b-bdfc-ab562b5ff477" />
 
-<img width="1402" height="867" alt="Ekran görüntüsü 2025-08-05 223233" src="https://github.com/user-attachments/assets/49693b65-1600-4810-908d-7a6f48423e34" />
 
 ### 🟡 İşlem Ekleme ve Fiyat Hesaplama
+<img width="1398" height="861" alt="Ekran görüntüsü 2025-08-05 223321" src="https://github.com/user-attachments/assets/f4686059-dab4-48a9-b7b3-d8e2d4267390" />
 
-<img width="1398" height="861" alt="Ekran görüntüsü 2025-08-05 223321" src="https://github.com/user-attachments/assets/6af270d0-8c0c-404f-a6f9-59ac29a31b62" />
 
 ---
 
